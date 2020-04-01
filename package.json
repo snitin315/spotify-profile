@@ -14,9 +14,6 @@
       "url": "https://github.com/snitin315/spotify-profile/issues"
     },
     "homepage": "https://github.com/snitin315/spotify-profile#readme",
-    "engines": {
-      "node": "10.13.0"
-    },
     "scripts": {
       "client:install": "cd client && yarn",
       "client": "cd client && yarn start",
